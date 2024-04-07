@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Breve descripción del proyecto.
+La base de datos es mongodb y se utilizo Rails 7.1.3.2, ruby 3.0.2.
 
 ## Endpoints API
 
