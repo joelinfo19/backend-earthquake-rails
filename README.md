@@ -1,24 +1,16 @@
-# README
+# Frogmi backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Descripción
 
-Things you may want to cover:
+Breve descripción del proyecto.
 
-* Ruby version
+## Endpoints API
 
-* System dependencies
+- **GET /api/features**: Permite leer datos.
+- **POST /api/features/:id/comments**: Permite crear comentarios basados en un ID.
 
-* Configuration
 
-* Database creation
 
-* Database initialization
+## Task para Obtener Data
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Se creó una tarea en Rails para obtener toda la data. 
