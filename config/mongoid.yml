@@ -1,7 +1,7 @@
 development:
   clients:
     default:
-      uri: mongodb+srv://joel_:TZYTJ1Pkv8GiX2WB@cluster0.wlbupsr.mongodb.net/frogmi
+      uri: "MONGO_DB"
 
       options:
         server_selection_timeout: 5
