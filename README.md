@@ -8,9 +8,11 @@ Breve descripción del proyecto.
 
 - **GET /api/features**: Permite leer datos.
 - **POST /api/features/:id/comments**: Permite crear comentarios basados en un ID.
-
+[!apis](APIS._GET_POST.png)
 
 
 ## Task para Obtener Data
 
-Se creó una tarea en Rails para obtener toda la data. 
+Se creó una tarea en Rails para obtener toda la data de la url indicada. 
+
+[!task](TASK.png)
